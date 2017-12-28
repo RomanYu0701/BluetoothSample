@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BluetoothSample</string>
+
+    <string name="default_label">BlueToothLeScanner Example</string>
+    <string name="label_start_service">Start Scan</string>
+    <string name="label_stop_service">Stop Scan</string>
+
+</resources>
